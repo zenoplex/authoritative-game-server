@@ -4,8 +4,8 @@ import { Client } from './Client';
 
 const canvas = document.querySelector<HTMLCanvasElement>('#canvas');
 if (!canvas) throw new Error('must have canvas element named #canvas');
-canvas.width = 900;
-canvas.height = 300;
+canvas.width = 1080;
+canvas.height = 720;
 
 const { PORT } = process.env;
 
