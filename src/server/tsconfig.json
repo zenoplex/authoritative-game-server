@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "lib": ["es6", "es2017", "esnext.asynciterable", "dom"],
+    "sourceMap": true,
+    "outDir": "../../dist",
+    "moduleResolution": "node",
+    "removeComments": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "rootDir": ".."
+  },
+  "exclude": ["node_modules"],
+  "files": ["./index.ts"]
+}
