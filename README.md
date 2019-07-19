@@ -6,7 +6,7 @@
 </p>
 
 > Authoritative game server with node and socket.io
-> Thanks to Gabriel Gambetta for excellent [document](https://www.gabrielgambetta.com/client-server-game-architecture.html)
+> Thanks to Gabriel Gambetta for excellent [article](https://www.gabrielgambetta.com/client-server-game-architecture.html).
 
 ## Prerequisites
 
