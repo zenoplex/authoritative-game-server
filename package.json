@@ -2,7 +2,7 @@
   "private": true,
   "name": "authoritative-game-server",
   "version": "0.0.0",
-  "description": "Multiplayer snake game with client-side prediction",
+  "description": "Authoritative game server with node and socket.io",
   "repository": "https://github.com/zenoplex/authoritative-game-server",
   "main": "\"\"",
   "scripts": {
@@ -63,5 +63,9 @@
     "express": "4.17.1",
     "socket.io": "2.2.0",
     "socket.io-client": "2.2.0"
+  },
+  "engines": {
+    "npm": ">=5.5.0",
+    "node": ">=10.16.0"
   }
 }
